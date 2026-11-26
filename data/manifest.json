@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "customers": 6000,
+  "snapshot": "2026-01-01",
+  "files": {
+    "customers.csv": {
+      "rows": 6000,
+      "sha256": "59d6af15d968b3fafc33066465de0c27916512f45c03078c9baef258b4bfd116"
+    },
+    "credit_scores.csv": {
+      "rows": 150000,
+      "sha256": "3d07afcbc1fe43e81130a6547e538be33a0a608eb60410e9872031ac7b707b40"
+    },
+    "loans.csv": {
+      "rows": 12448,
+      "sha256": "f3512c3055c2084912e3c8033aad257491d8c535a00c9c0f0a731592a1758c95"
+    },
+    "payments.csv": {
+      "rows": 244530,
+      "sha256": "a29e92824cec041048542b121b8cba9bdf2fb78530c10279e7da72fff97fb739"
+    },
+    "officer_notes.csv": {
+      "rows": 16269,
+      "sha256": "97341316493b650d5b1fc92dabe0bf8fbdf4c14301f3bf6038faee646a074560"
+    }
+  }
+}
