@@ -54,5 +54,7 @@ The tables hide more than a dozen leaks. Each episode uncovers some of them; try
 
 ## Episodes
 
-Folders arrive with each video: `01-leakage-intro/`, `02-splits/`, `03-pipelines/`,
+- [`01-leakage-intro/`](01-leakage-intro/): your 99% accurate model is lying (target leakage)
+
+Coming next: `02-splits/`, `03-pipelines/`,
 `04-point-in-time/`, `05-ci-gate/`, `06-llm-leakage/`.
